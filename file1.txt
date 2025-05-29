@@ -12,3 +12,4 @@ new line
 dwadw
 29.05 14:21
 2e2d
+line for reset
