@@ -10,4 +10,11 @@ test line for test branch
 
 new line
 dwadw
+<<<<<<< HEAD
 wadwa
+=======
+29.05 14:21
+2e2d
+line for reset
+line for reset2
+>>>>>>> 1e7b2cd2933fd2f84cff682125b47cd9d74bb3e7
