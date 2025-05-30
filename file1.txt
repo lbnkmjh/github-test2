@@ -18,3 +18,4 @@ wadwa
 line for reset
 line for reset2
 >>>>>>> 1e7b2cd2933fd2f84cff682125b47cd9d74bb3e7
+line for fetch from remote
